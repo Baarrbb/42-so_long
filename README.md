@@ -19,7 +19,7 @@ git clone https://github.com/42Paris/minilibx-linux.git
 ```
 # Mandatory
 ```
-make && ./so_long map/map4.ber
+make && ./so_long map/map2.ber
 ```
 <div align="center">
   <img src="./gif/mandatory.gif" alt="gif_mandatory">
